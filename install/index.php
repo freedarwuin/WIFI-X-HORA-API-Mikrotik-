@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>PHPNuxBill Installer</title>
+    <title>Instalador WIFI X HORA</title>
     <link rel="shortcut icon" type="image/x-icon" href="img/favicon.png">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -24,13 +24,13 @@
         <!--  contents area start  -->
         <div class="row">
             <div class="col-md-12">
-                <h4> PHPNuxBill Installer </h4>
+                <h4> Instalador WIFI X HORA </h4>
                 <h5>Please Read Before Continue</h5>
                 <p><strong>Informasi Aplikasi</strong><br>
-                    Application Name: PHPNuxBill <br>
+                    Application Name: WIFI X HORA <br>
                     Release Date: 30/10/2015<br>
-                    By: PHPNuxBill [ <a href="https://github.com/hotspotbilling/phpnuxbill" target="_blank">https://github.com/hotspotbilling/phpnuxbill</a> ]<br>
-                    Donasi Paypal: <b>me@ibnux.et</b><br>
+                    By: WIFI X HORA [ <a href="https://github.com/freedarwuin/WIFI-X-HORA-API-Mikrotik-" target="_blank">https://github.com/freedarwuin/WIFI-X-HORA-API-Mikrotik-</a> ]<br>
+                    Donasi Paypal: <b>darwuinjose@gmail.com</b><br>
                     <br>
                     <strong>Syarat Penggunaan:</strong><br>
                     Syarat Penggunaan ini berlaku untuk semua versi.<br><br>
